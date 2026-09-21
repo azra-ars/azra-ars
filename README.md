@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Front-End Web Projects**
 
-- 🤝 I’m looking for help with **JavaScript and Blender Workflows**
+- 🤝 I’m looking for help with **Game Development and Blender Workflows**
 
 - 💬 Ask me about **HTML, CSS, Responsive Design, Blender and UI Design**
 
